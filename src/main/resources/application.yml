@@ -1,0 +1,15 @@
+server:
+  port: 8099
+
+spring:
+  application:
+    name: provider
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1/interview?useSSL=true&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
+    
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

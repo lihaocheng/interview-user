@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: interview-common
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zhou company
+Implementation-Vendor-Id: com.lee.interview
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/parent/interview-common
+Created-By: Maven Integration for Eclipse
+
